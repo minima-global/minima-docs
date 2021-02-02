@@ -1,2 +1,3 @@
-# minima-docs
-Documentation relating to Minima
+# Minima Docs
+
+Documentation relating to Minima.
