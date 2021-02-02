@@ -1,5 +1,0 @@
-########
-Response
-########
-
-.. _interfacesResponse:

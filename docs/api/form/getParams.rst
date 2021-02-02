@@ -1,5 +1,0 @@
-##############
-form.getParams
-##############
-
-.. _apiFormGetParams:

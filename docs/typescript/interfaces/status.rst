@@ -1,5 +1,0 @@
-######
-Status
-######
-
-.. _interfacesStatus:

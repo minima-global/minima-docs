@@ -1,5 +1,0 @@
-###########
-BurnWitness
-###########
-
-.. _interfacesBurnWitness:

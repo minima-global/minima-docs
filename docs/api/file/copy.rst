@@ -1,5 +1,0 @@
-#########
-file.copy
-#########
-
-.. _apiFileCopy:

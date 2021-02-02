@@ -1,5 +1,0 @@
-########
-net.send
-########
-
-.. _apiNetSend:

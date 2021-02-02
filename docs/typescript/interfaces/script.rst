@@ -1,5 +1,0 @@
-######
-Script
-######
-
-.. _interfacesScript:

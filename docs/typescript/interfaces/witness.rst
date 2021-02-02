@@ -1,5 +1,0 @@
-#######
-Witness
-#######
-
-.. _interfacesWitness:

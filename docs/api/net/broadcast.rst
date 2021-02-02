@@ -1,5 +1,0 @@
-#############
-net.broadcast
-#############
-
-.. _apiNetBroadcast:

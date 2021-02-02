@@ -1,5 +1,0 @@
-########
-Callback
-########
-
-.. _typesCallback:

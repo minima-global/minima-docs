@@ -1,5 +1,0 @@
-###############
-minidapps.reply
-###############
-
-.. _apiMiniDappsReply:

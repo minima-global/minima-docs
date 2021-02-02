@@ -1,5 +1,0 @@
-##############
-net.onOutbound
-##############
-
-.. _apiNetOnOutbound:

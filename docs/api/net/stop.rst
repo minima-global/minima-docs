@@ -1,5 +1,0 @@
-########
-net.stop
-########
-
-.. _apiNetStop:

@@ -1,5 +1,0 @@
-#########
-file.list
-#########
-
-.. _apiFileList:

@@ -1,5 +1,0 @@
-###########
-Transaction
-###########
-
-.. _interfacesTransaction:

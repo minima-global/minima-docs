@@ -1,5 +1,0 @@
-################
-TransactionInput
-################
-
-.. _interfacesTransactionInput:

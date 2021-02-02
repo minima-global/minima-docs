@@ -1,5 +1,0 @@
-################
-minidapps.listen
-################
-
-.. _apiMiniDappsListen:

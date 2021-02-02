@@ -1,5 +1,0 @@
-##############
-net.disconnect
-##############
-
-.. _apiNetDisconnect:

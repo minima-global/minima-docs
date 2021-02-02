@@ -1,5 +1,0 @@
-########
-TokenGen
-########
-
-.. _interfacesTokenGen:

@@ -1,5 +1,0 @@
-#############
-net.onInbound
-#############
-
-.. _apiNetOnInbound:

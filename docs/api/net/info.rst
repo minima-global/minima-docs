@@ -1,5 +1,0 @@
-########
-net.info
-########
-
-.. _apiNetInfo:

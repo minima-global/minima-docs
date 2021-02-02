@@ -1,5 +1,0 @@
-#######
-History
-#######
-
-.. _interfacesHistory:

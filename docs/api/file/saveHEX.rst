@@ -1,5 +1,0 @@
-############
-file.saveHex
-############
-
-.. _apiFileSaveHex:

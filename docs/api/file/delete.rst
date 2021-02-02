@@ -1,5 +1,0 @@
-###########
-file.delete
-###########
-
-.. _apiFileDelete:

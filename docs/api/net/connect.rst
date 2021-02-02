@@ -1,5 +1,0 @@
-###########
-net.connect
-###########
-
-.. _apiNetConnect:

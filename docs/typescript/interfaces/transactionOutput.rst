@@ -1,5 +1,0 @@
-#################
-TransactionOutput
-#################
-
-.. _interfacesTransactionOutput:

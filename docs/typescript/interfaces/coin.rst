@@ -1,5 +1,0 @@
-####
-Coin
-####
-
-.. _interfacesCoin:

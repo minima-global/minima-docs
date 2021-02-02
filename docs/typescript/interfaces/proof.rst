@@ -1,5 +1,0 @@
-#####
-Proof
-#####
-
-.. _interfacesProof:

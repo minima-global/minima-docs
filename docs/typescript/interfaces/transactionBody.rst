@@ -1,5 +1,0 @@
-###############
-TransactionBody
-###############
-
-.. _interfacesTransactionBody:

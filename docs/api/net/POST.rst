@@ -1,5 +1,0 @@
-########
-net.POST
-########
-
-.. _apiNetPOST:

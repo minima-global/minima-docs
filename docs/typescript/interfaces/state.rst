@@ -1,5 +1,0 @@
-#####
-State
-#####
-
-.. _interfacesState:

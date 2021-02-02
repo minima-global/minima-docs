@@ -1,5 +1,0 @@
-#####
-Magic
-#####
-
-.. _interfacesMagic:

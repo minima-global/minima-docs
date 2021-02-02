@@ -1,5 +1,0 @@
-#########
-net.start
-#########
-
-.. _apiNetStart:

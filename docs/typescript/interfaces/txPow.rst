@@ -1,5 +1,0 @@
-#####
-TxPow
-#####
-
-.. _interfacesTxPow:

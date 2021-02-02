@@ -1,5 +1,0 @@
-#########
-net.stats
-#########
-
-.. _apiNetStats:

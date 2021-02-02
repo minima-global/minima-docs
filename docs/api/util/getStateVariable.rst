@@ -1,5 +1,0 @@
-#####################
-util.getStateVariable
-#####################
-
-.. _apiUtilGetStateVariable:

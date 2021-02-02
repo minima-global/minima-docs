@@ -1,5 +1,0 @@
-######
-notify
-######
-
-.. _apiNotify:

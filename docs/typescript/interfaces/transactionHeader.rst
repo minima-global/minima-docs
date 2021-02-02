@@ -1,5 +1,0 @@
-#################
-TransactionHeader
-#################
-
-.. _interfacesTransactionHeader:
