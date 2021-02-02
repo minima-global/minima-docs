@@ -1,2 +1,4 @@
-[initialise](./initialise.md)
-[install](./install.md)
+## Getting Started
+
++ [initialise](./initialise.md)
++ [install](./install.md)
