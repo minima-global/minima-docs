@@ -1,4 +1,4 @@
-# Developer Docs
+# Developer
 
 + [Build](./Build/build.md)
 + [API](./API/api.md)
