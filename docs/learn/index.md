@@ -26,4 +26,6 @@
 + [The Maxima Layers](./layersMaxima.md)
 + [Pulse](./pulse.md)
 
+### Papers
+
 + [Technical Papers](./technicalPapers.md)
