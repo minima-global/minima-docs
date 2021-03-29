@@ -1,4 +1,4 @@
-## About
+## About Minima
 
 The Minima blockchain is a mechanism for transferring value, securely.
 
