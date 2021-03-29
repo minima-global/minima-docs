@@ -1,6 +1,4 @@
-## Minima Wiki
-
-Welcome to the Minima Wiki.
+## The Minima Wiki
 
 + [About](./about/index.md)
 + [Get Involved](./getInvolved/index.md)
