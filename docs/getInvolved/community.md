@@ -16,7 +16,7 @@ Below are instructions as to how to join the growing Minima community.
 
 [Meetup](link)
 
-#### Technical
+#### Source Code Repositories
 
 [Github](https://github.com/minima-global)
 
