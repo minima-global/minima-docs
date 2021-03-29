@@ -1,7 +1,5 @@
 ## Minima University
 
-Learn all about Minima.
-
 + [Nodes](./nodes.md)
 + [Minima Nodes](./minimaNodes.md)
 + [Maxima](./maxima.md)
