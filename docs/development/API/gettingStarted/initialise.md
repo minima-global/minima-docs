@@ -1,4 +1,4 @@
-## Initialising Minima
+###ß Initialising Minima
 
 Below shows you how to initialise your MiniDapp. This _must_ do this before you do anything else on the Minima blockchain.
 
