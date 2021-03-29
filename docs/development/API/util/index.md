@@ -1,4 +1,4 @@
-## Minima.util
+#### Minima.util
 
 + [checkAllResponses](./checkAllResponses.md)
 + [getBalance](./getBalance.md)

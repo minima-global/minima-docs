@@ -1,10 +1,10 @@
-# Minima API
+### Minima API
 
 The Minima API is used to drive MiniDapps.
 
 [Getting Started](gettingStarted/index.md)
 
-## API Calls
+#### API Calls
 
 + [cmd](./cmd.md)
 + [init](./init.md)

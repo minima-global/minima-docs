@@ -1,3 +1,3 @@
-## Typescript Types
+#### Typescript Types
 
 [Callbacks](./callback.md)

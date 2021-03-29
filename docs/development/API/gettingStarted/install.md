@@ -1,4 +1,4 @@
-### Install minima.js
+#### Install minima.js
 
 Clone this repo', then, in the repo's home directory:
 

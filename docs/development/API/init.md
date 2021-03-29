@@ -1,4 +1,4 @@
-## init
+#### init
 
 `Minima.init` must be called **FIRST**. It can be called alone, i.e. `Minima.init()`, or with a callback function that can be used to monitor (and act upon) all Minima events, e.g:
 

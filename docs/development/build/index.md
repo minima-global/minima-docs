@@ -1,3 +1,3 @@
-# Build Applications
+### Build Applications
 
 Building applications (MiniDapps) for the Minima blockchain is, essentially, a simple process...
