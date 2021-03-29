@@ -1,4 +1,4 @@
-## Learn
+## Minima University
 
 Learn all about Minima.
 
