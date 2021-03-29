@@ -8,8 +8,7 @@ Clone this repo', then, in the repo's home directory:
 
 At the time of writing `package.json` sets the version to `0.96.13`, so the command above will create `minima.js-0.96.13.tgz`.
 
-Use
-===
+#### Use
 
 In a.n.other node project:
 
