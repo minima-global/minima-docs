@@ -1,7 +1,5 @@
 ## Get Involved
 
-Getting involved with Minima.
-
 + [Incentive Program](./incentiveProgram.md)
 + [Register](./register.md)
 + [Node Incentives](nodeIncentives.md)
