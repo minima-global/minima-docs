@@ -7,10 +7,18 @@
 + [Maxima Incentives](./maximaIncentives.md)
 + [How to Run a Maxima Node](./runningMaxima.md)
 
+### Bugs
+
 + [Bug Bounty](./bugBounty.md)
+
+### Developer
 
 + [Build MiniDapps](./minidapps.md)
 
+### Ambassadors
+
 + [Ambassadors](./ambassadors.md)
+
+### The Minima Community
 
 + [Join the Community](./community.md)
