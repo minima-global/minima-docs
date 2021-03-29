@@ -6,4 +6,4 @@
 
 ### Source Code Repositories
 
-+ [Github](https://github.com/minima-global)
++ [Minima on GitHub](https://github.com/minima-global)
