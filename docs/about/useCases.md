@@ -1,4 +1,4 @@
-## Minima Use Cases
+## Minima Use Cases
 
 Minima has a number of capabilities and potential use cases, these include:
 
