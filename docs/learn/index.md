@@ -24,4 +24,4 @@ Learn all about Minima.
 + [The Maxima Layers](./layersMaxima.md)
 + [Pulse](./pulse.md)
 
-+ [Tecnical Papers](./technicalPapers.md)
++ [Technical Papers](./technicalPapers.md)
