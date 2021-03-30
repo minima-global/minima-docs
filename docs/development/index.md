@@ -4,6 +4,6 @@
 + [API](./API/index.md)
 + [Technical Papers](./technicalPapers/index.md)
 
-### Source Code Repositories
+### Source Code
 
 + [Minima on GitHub](https://github.com/minima-global)
