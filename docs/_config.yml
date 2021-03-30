@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Minima Wiki
 description: Documentation for the Minima Blockchain
 logo: /images/minimaLogo.svg
+menu: /mainMenu.md
