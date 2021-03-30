@@ -1,4 +1,4 @@
-## Burn
+### Burn
 
 + A strong incentive to propagate and process a transaction
 + A method for ordering transactions and regulating on-chain traffic

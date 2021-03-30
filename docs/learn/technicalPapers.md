@@ -1,4 +1,4 @@
-## Technical Papers
+### Technical Papers
 
 Below lists Minima technical papers:
 
