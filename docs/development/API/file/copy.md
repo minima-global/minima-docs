@@ -1,4 +1,4 @@
-# file.coopy
+# file.copy
 
 Copy a file.
 
